@@ -17,9 +17,9 @@
     "require": {
         "php": ">=8.0.2",
         "ext-openssl": "*",
-        "illuminate/log": "~9.0 || ~10.0",
-        "illuminate/config": "~9.0 || ~10.0",
-        "illuminate/contracts": "~9.0 || ~10.0"
+        "illuminate/log": "~9.0 || ~10.0 || ~11.0",
+        "illuminate/config": "~9.0 || ~10.0 || ~11.0",
+        "illuminate/contracts": "~9.0 || ~10.0 || ~11.0"
     },
     "require-dev": {
         "laravel/laravel": "~9.0 || ~10.0",
